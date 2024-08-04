@@ -2,10 +2,10 @@
 Creating a scoring system/app for 3 hole washers to eventually track stats and make into a phone app
 
 ## Plan:
-- Create multiple classes to aid in code reusability: (Team, Board, Player, Throw)
+- Create multiple classes to aid in code reusability: (Team ✅, Board ✅, Player ✅, Throw)
 - Allow for rules enforcement and auto calculation of score
 - Features to add
-  - Covers
+  - Covers ✅
   - Busts
   - Washers back
 
